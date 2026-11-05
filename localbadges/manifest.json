@@ -1,0 +1,7 @@
+{
+  "name": "LocalBadges",
+  "description": "Profilingizda faqat o'zingizga ko'rinadigan lokal badge'lar.",
+  "authors": [{ "name": "Artic" }],
+  "main": "index.js",
+  "hash": "v1"
+}

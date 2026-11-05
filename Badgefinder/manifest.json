@@ -1,0 +1,7 @@
+{
+  "name": "BadgeFinder",
+  "description": "Badge ekranini aniqlash uchun vaqtinchalik plagin.",
+  "authors": [{ "name": "Artic" }],
+  "main": "index.js",
+  "hash": "f1"
+}
